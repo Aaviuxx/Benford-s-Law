@@ -19,7 +19,7 @@ class BenfordLaw {
     }
 
     /**
-     * @author Derek Xu
+     * @author Ayeh Fartousi
      */
     public static void analyzeSalesData (String [] args) {
         
